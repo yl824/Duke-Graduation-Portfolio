@@ -1,4 +1,4 @@
-Real-time win rate prediction for Dota 2
+Real-time eSport win rate prediction
 -----------
 
 
